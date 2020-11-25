@@ -1,0 +1,4 @@
+enum TodoActionCard {
+  add,
+  remove
+}
