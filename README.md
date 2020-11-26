@@ -1,10 +1,17 @@
-# todo
+# Todo List
 
 A new Flutter project.
 
+    - Login 
+    - Register
+    - Todo 
+        - Create
+        - Update
+        - Delete
+
 ## Getting Started
 
-This project for training student
+This project for training
 
 Thank.
 
