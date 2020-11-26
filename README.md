@@ -2,16 +2,16 @@
 
 A new Flutter project.
 
-    - Login 
-    - Register
-    - Todo 
-        - Create
-        - Update
-        - Delete
+1. Login 
+2. Register
+3. Todo 
+    - Create
+    - Update
+    - Delete
 
 ## Getting Started
 
-This project for training
+This project for training only
 
 Thank.
 
